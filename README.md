@@ -1,6 +1,13 @@
-<h2>開発紹介</h2>
-<h3>・母の日プレゼントガチャ(line bot)</h3>
+## 開発紹介  
+### ・母の日プレゼントガチャ（Line Bot）
+<https://github.com/Yuuki-nugi/hackathon202204>  
+サポーターズさんのハッカソンで作成したline botです。  
+
+
 <h3>・PROUSE</h3>
+
+- urls:
+  - https://github.com/Yuuki-nugi/hackathon202204
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
