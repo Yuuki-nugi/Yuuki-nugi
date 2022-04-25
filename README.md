@@ -11,7 +11,7 @@
 
 ## 開発紹介  
 ### ・母の日プレゼントガチャ（Line Bot）
-<https://github.com/Yuuki-nugi/hackathon202204>  
+repository：<https://github.com/Yuuki-nugi/hackathon202204>  
 サポーターズさんのハッカソンで作成したline botです。  
 #### できること
 ・メッセージを送ることで、yahoo shoppingから母の日に関連した商品を紹介する  
