@@ -21,17 +21,6 @@ repository：<https://github.com/Yuuki-nugi/hackathon202204>
 ↓↓このQRからbotを友達追加できます。
 ![image](https://user-images.githubusercontent.com/61080302/165008179-f5e89cf2-1aec-4cde-8b5f-c7d402ea01d3.png)
 
-### ・PROUSE（2022年夏のリリースを目指して制作中）
-「be proud」 * 「praise」 => **PROUSE**  
-つぶやきではなく、活動を発信するためのSNS  
-  
- 既存のSNSよりも
- - 活動をアピールしやすい
- - 他人の活動を褒めやすい
- - 活動内容を振り返りやすい  
- こんなSNSを目指しています。
-
-
 <!--
 **Yuuki-nugi/Yuuki-nugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
