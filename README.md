@@ -5,9 +5,15 @@
   <img src='https://user-images.githubusercontent.com/61080302/165010310-60e43592-6564-4991-89a9-775dcbe22012.png' width='50px'>
   <img src='https://user-images.githubusercontent.com/61080302/165010644-f19331e9-a3b5-434a-818c-d4dbdd1c98fc.png' width='50px'>
   <img src='https://user-images.githubusercontent.com/61080302/165010668-876aee9c-de79-40ee-81eb-dcb37cf95ed9.png' width='50px'>
+  <img src='https://user-images.githubusercontent.com/61080302/183867541-926abb3e-72f2-4cf6-96ee-8ac6ce9c6d5e.png' width='50px'>
 </div>
-・ruby ・rails ・kotlin ・react ・javascript
 
+## 記事  
+・「技育CAMP Vol.6で最優秀賞をもらった話」  
+https://note.com/nugi_memo/n/n3c08130b6ac5  
+
+・「Xsens Dot SDK( Android ) Recordingの基本」  
+https://qiita.com/kunuyuu3/items/d6e88dc383b7f9347eac
 
 ## 開発紹介  
 ### ・母の日プレゼントガチャ（Line Bot）
@@ -18,7 +24,7 @@ repository：<https://github.com/Yuuki-nugi/hackathon202204>
 ・紹介した商品が気に入ったかをyes/noで評価できる  
 ・全ユーザーの評価を集計し、ランキング上位３つの商品を紹介する  
   
-↓↓このQRからbotを友達追加できます。
+↓↓このQRからbotを友達追加できます。  
 ![image](https://user-images.githubusercontent.com/61080302/165008179-f5e89cf2-1aec-4cde-8b5f-c7d402ea01d3.png)
 
 <!--
