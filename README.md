@@ -1,4 +1,4 @@
-## 主な使用技術
+## 使用技術
 <div style="float: left;">
   <img src='https://user-images.githubusercontent.com/61080302/165010480-a0a31220-027f-4160-ba85-22da165bb5ea.png' width='50px'>
   <img src='https://user-images.githubusercontent.com/61080302/165010309-44aabff9-68f7-4390-a12b-8f6a8714e1ea.png' width='50px'>
@@ -6,6 +6,8 @@
   <img src='https://user-images.githubusercontent.com/61080302/165010644-f19331e9-a3b5-434a-818c-d4dbdd1c98fc.png' width='50px'>
   <img src='https://user-images.githubusercontent.com/61080302/165010668-876aee9c-de79-40ee-81eb-dcb37cf95ed9.png' width='50px'>
   <img src='https://user-images.githubusercontent.com/61080302/183867541-926abb3e-72f2-4cf6-96ee-8ac6ce9c6d5e.png' width='50px'>
+  <img src='https://user-images.githubusercontent.com/61080302/193399299-a079d371-1f8a-4ccf-a8b7-67f70d5785ae.png' width='50px'>
+  <img src='https://user-images.githubusercontent.com/61080302/193399326-f26e6fe0-f626-4154-a67a-b79f7e9710ea.png' width='50px'>
 </div>
 
 ## 記事  
