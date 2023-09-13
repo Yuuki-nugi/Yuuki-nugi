@@ -10,31 +10,27 @@
   <img src='https://user-images.githubusercontent.com/61080302/193399326-f26e6fe0-f626-4154-a67a-b79f7e9710ea.png' width='50px'>
 </div>
 
+## Athlete Crowd　　
+スポーツ選手のトレーニング分析を行えるアプリを運営しています。（Play Store, App Storeで公開中）
+
+https://athletecrowd.net/  
+
+<img src='https://github.com/Yuuki-nugi/Yuuki-nugi/assets/61080302/cfb070cc-ff17-4afe-9ad7-a2c9f914e912' height='400px'>
+
+### できること
+- スポーツ動作を撮影sた動画をアップロードするだけで、クラウド上で姿勢推定を実行
+- 姿勢推定結果を活用して、動作分析や2つの動作の動作比較
+- 日記を投稿し、日記の内容をグラフ化
+- 他のユーザーや投稿された日記や動作を検索
+
+
+
 ## 記事  
 ・「技育CAMP Vol.6で最優秀賞をもらった話」  
 https://note.com/nugi_memo/n/n3c08130b6ac5  
 
 ・「Xsens Dot SDK( Android ) Recordingの基本」  
 https://qiita.com/kunuyuu3/items/d6e88dc383b7f9347eac
-
-## 開発紹介  
-### ・Pump(グループワークサポート Webサービス)
-front repository: <https://github.com/Yuuki-nugi/hackathon202207-frontend>  
-backend repository: <https://github.com/Yuuki-nugi/hackathon202207-backend>  
-サポーターズさんのハッカソンで制作したWebサービスです。（未リリース）   
-#### 詳細  
-開発した背景やできること、動作している様子などを下記のnoteに載せています。  
-<https://note.com/nugi_memo/n/n3c08130b6ac5>  
-### ・母の日プレゼントガチャ（Line Bot）
-repository：<https://github.com/Yuuki-nugi/hackathon202204>  
-サポーターズさんのハッカソンで作成したline botです。  
-#### できること
-・メッセージを送ることで、yahoo shoppingから母の日に関連した商品を紹介する  
-・紹介した商品が気に入ったかをyes/noで評価できる  
-・全ユーザーの評価を集計し、ランキング上位３つの商品を紹介する  
-  
-↓↓このQRからbotを友達追加できます。  
-![image](https://user-images.githubusercontent.com/61080302/165008179-f5e89cf2-1aec-4cde-8b5f-c7d402ea01d3.png)
 
 <!--
 **Yuuki-nugi/Yuuki-nugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
